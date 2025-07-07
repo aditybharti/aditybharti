@@ -2,7 +2,9 @@
  
  👀 I’m interested in coding, singing,sketching. 
  
- 🌱 I’m currently learning back-end web Development.
+ 🌱 I have completed my graduation Degree.
+
+ 
 
 
 
